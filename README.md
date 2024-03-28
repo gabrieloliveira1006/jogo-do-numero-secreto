@@ -35,4 +35,4 @@ Se você quiser contribuir com melhorias para este jogo, sinta-se à vontade par
 
 ## Créditos
 
-Este jogo foi criado por Gabriel Silveira de Oliveira utilizando o curso do Alura sobre LÓGICA DE PROGRAMAÇÃO: EXPLORE FUNÇÕES E LISTAS e LÓGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JAVASCRIPT.
+Este jogo foi criado por @gabrieloliveira1006 utilizando o curso do Alura sobre LÓGICA DE PROGRAMAÇÃO: EXPLORE FUNÇÕES E LISTAS e LÓGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JAVASCRIPT.
